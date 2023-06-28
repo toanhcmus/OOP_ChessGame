@@ -1,0 +1,1468 @@
+﻿  Bishop.cpp
+  Board.cpp
+  Game.cpp
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(211,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(218,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(241,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(241,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(241,131): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(241,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(256,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(256,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(256,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(256,122): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(286,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(293,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(316,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(316,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(316,131): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(316,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(341,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(341,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(341,129): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(341,122): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(353,13): warning C4305: 'return': truncation from 'int' to 'char'
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(353,9): warning C4309: 'return': truncation of constant value
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(405,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(405,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(405,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(405,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(413,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(413,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(413,122): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(413,115): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(418,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(418,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(418,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(418,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(494,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(494,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(494,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(494,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(506,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(506,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(506,115): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(506,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(513,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(513,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(513,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(513,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(530,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(530,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(530,115): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(530,108): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(535,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(535,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(535,113): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(535,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(540,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(540,49): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(540,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(540,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(545,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(545,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(545,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(545,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(567,42): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(567,22): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(578,42): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(578,22): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(589,42): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(589,22): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(595,41): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(595,21): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(602,40): warning C4244: 'argument': conversion from '_Ty1' to 'float', possible loss of data
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(602,20): warning C4244: 'argument': conversion from '_Ty2' to 'float', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(712,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(778,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(778,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(778,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(778,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(787,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(787,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(787,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(787,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(795,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(795,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(795,118): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(795,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(807,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(807,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(807,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(807,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(815,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(815,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(815,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(815,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(821,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(821,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(821,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(821,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(836,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(836,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(873,14): warning C4552: '!=': result of expression not used
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(876,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(876,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(878,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(879,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(912,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(912,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(923,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(923,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(923,119): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(923,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(925,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(925,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(925,119): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(925,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(931,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(931,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(931,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(931,102): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(933,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(933,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(933,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(933,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(935,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(935,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(935,113): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(935,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1076,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1076,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1076,116): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1076,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1084,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1084,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1084,118): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1084,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1096,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1096,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1096,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1096,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1103,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1103,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1103,124): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1103,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1110,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1110,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1110,114): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1110,107): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1116,57): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1116,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1116,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1116,105): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1131,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1131,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1169,14): warning C4552: '!=': result of expression not used
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1171,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1171,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1173,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1174,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1212,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1212,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1223,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1223,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1243,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1243,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1243,119): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1243,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1245,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1245,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1245,119): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1245,112): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1247,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1247,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1247,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1247,102): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1249,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1249,47): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1249,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1249,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1251,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1251,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1251,113): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\PC\source\repos\ChessNew\ChessGD\Game.cpp(1251,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  King.cpp
+  Knight.cpp
+  Pawn.cpp
+  Piece.cpp
+C:\Users\PC\source\repos\ChessNew\ChessGD\Piece.cpp(20,33): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\PC\source\repos\ChessNew\ChessGD\Piece.cpp(20,30): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  Queen.cpp
+  Rook.cpp
+  Source.cpp
+  Generating Code...
+sfml-main-d.lib(MainWin32.cpp.obj) : warning LNK4099: PDB 'sfml-main-s-d.pdb' was not found with 'sfml-main-d.lib(MainWin32.cpp.obj)' or at 'C:\Users\PC\source\repos\ChessNew\x64\Debug\sfml-main-s-d.pdb'; linking object as if no debug info
+  ChessGD.vcxproj -> C:\Users\PC\source\repos\ChessNew\x64\Debug\ChessGD.exe
